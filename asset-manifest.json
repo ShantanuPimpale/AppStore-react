@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AppStore/static/css/main.5bba7702.css",
+    "main.js": "/AppStore/static/js/main.b5bec205.js",
+    "static/media/3.png": "/AppStore/static/media/3.fc6412a75c7d0cce7fec.png",
+    "static/media/thumb.png": "/AppStore/static/media/thumb.411cb35c8089c8836151.png",
+    "static/media/2.jpg": "/AppStore/static/media/2.5e549e7de0c8e47d5c2e.jpg",
+    "static/media/7.jpg": "/AppStore/static/media/7.be3eeae8204ec8b71e11.jpg",
+    "static/media/4.jpg": "/AppStore/static/media/4.6e4d0b06c5761d394bab.jpg",
+    "static/media/rewards.png": "/AppStore/static/media/rewards.20c5180e20aa3c2ef62d.png",
+    "static/media/flag.png": "/AppStore/static/media/flag.1bce521686607a7d5c8f.png",
+    "static/media/5.jpg": "/AppStore/static/media/5.fab58023063e0307716c.jpg",
+    "static/media/avatar2.jpeg": "/AppStore/static/media/avatar2.e8d24e807f662b6c5924.jpeg",
+    "static/media/logo.png": "/AppStore/static/media/logo.9b9902a56931028c976f.png",
+    "static/media/bg.jpg": "/AppStore/static/media/bg.3c9cebf5db7f137ab86d.jpg",
+    "static/media/avatar1.jpeg": "/AppStore/static/media/avatar1.ade40da125acaae68f66.jpeg",
+    "static/media/avatar5.avif": "/AppStore/static/media/avatar5.8880bda62ea7e9d90ed6.avif",
+    "static/media/avatar.avif": "/AppStore/static/media/avatar.8781c9ae46ebd01cacfc.avif",
+    "static/media/avatar3.avif": "/AppStore/static/media/avatar3.cfacf347a384e7671cd2.avif",
+    "static/media/avatar4.avif": "/AppStore/static/media/avatar4.eab69121c4f66dd80ac6.avif",
+    "static/media/flag1.png": "/AppStore/static/media/flag1.6b989ab2ea884c59987c.png",
+    "index.html": "/AppStore/index.html",
+    "main.5bba7702.css.map": "/AppStore/static/css/main.5bba7702.css.map",
+    "main.b5bec205.js.map": "/AppStore/static/js/main.b5bec205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bba7702.css",
+    "static/js/main.b5bec205.js"
+  ]
+}
